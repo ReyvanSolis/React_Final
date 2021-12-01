@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Nothing here to be seen :v
 
 This Final Is Very hard :")
